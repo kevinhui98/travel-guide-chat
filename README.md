@@ -1,5 +1,5 @@
 # Routes Ai Take Home
-This app that allows users to chat with an LLM to start they travel journey.
+This app that allows users to chat with an LLM to start their travel journey.
 
 
 ### User Stories
@@ -12,9 +12,10 @@ This app that allows users to chat with an LLM to start they travel journey.
 ##### BONUS
 - [ ]  Dynamically change the title after user starts a chat
 
-### App Walkthough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+### App Walkthrough GIF
 
 <img src="Walkthrough.mp4" width=250><br>
+
+https://imgur.com/a/KwLTxfu
 
 
