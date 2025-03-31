@@ -19,3 +19,5 @@ This app allows users to chat with an LLM to start their travel journey.
 https://imgur.com/a/KwLTxfu
 
 
+# NOTE
+The LLM call requires an api.properties file and the api key is named API_KEY using openrouter's API keys
