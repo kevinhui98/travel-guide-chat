@@ -1,4 +1,4 @@
-# ✈️ Routes AI Take Home
+# ✈️ Travel guide chat
 
 This app allows users to chat with an LLM-powered travel assistant to begin planning their journeys. It supports session history, intelligent title generation, and a polished Jetpack Compose UI.
 
@@ -38,7 +38,7 @@ This app allows users to chat with an LLM-powered travel assistant to begin plan
 1. Clone the repo** and open it in Android Studio:
 
 ```bash
-git clone https://github.com/your-username/RoutesAI-TakeHome.git
+git clone https://github.com/your-username/travel-guide-chat.git
 ```
 
 2. Create an api.properties file in the root of your project:
